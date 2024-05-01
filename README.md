@@ -1,1 +1,1 @@
-Two algorithms for substitution mutation
+Implementation of two data structures - linked list and hashmap to store and manage biological data, specifically atoms of a protein sequence from a PDB file. This aims to compare the two data structures in terms of access of atoms to perform biological computations on it. 
